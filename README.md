@@ -15,9 +15,9 @@
 - Анализировать успеваемость по различным критериям.
 - Экспортировать данные для дальнейшей обработки: начисления повышенной стипендии, отслеживания недопущенных к аттестации.
   
-  [Техническое задание](https://github.com/vaganova-j-a/data_base/blob/main/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
+  [Техническое задание]([https://github.com/vaganova-j-a/data_base/blob/main/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx](https://github.com/vaganova-j-a/data_base/blob/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx))
   
-  [Принципиальное задание](./Техническое задание.docx)
+  [Принципиальное задание](https://github.com/vaganova-j-a/data_base/blob/main/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
 
 ## Структура базы данных
 Основные таблицы базы данных:
